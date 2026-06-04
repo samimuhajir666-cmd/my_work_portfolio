@@ -1,17 +1,31 @@
-# my_work_portfolio
+# Abdul Sami Working Portfolio 
 AI Engineer Portfolio | RAG | AI Agents | Chatbots | LLM Applications | | Agentic AI ChatBots |
 ##  About Me
 Student of Dars-e-Nizami | AI Intern At Inter Pay.org | Building LLM Applications| AI Call Agents |
 
 ## Skills
+
+### 🤖 AI / Machine Learning
 - Python | LangChain | LangGraph
 - RAG (Retrieval Augmented Generation)
 - AI Agents with Tools
 - Chatbots Development
 - Groq API | OpenAI API
-- Deployment (Streamlit, Hugging Face)
 - Fine-tuning (Learning)
+- NumPy | Pandas
 
+### 🌐 Web Development
+- HTML5 | CSS3 | Django
+- Node.js
+- Streamlit | Flask
+- Responsive Design
+- AI Integration (APIs)
+
+### 🛠️ Tools & Databases
+- Git | GitHub
+- ChromaDB (Vector Database)
+- Hugging Face | Streamlit Cloud
+- VS Code | Jupyter
 
 ## Projects
 ### 6.SIRAT-E-MUSTAQEEM AI AGENT  (Voice-Enabled)
