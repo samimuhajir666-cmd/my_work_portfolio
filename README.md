@@ -63,4 +63,17 @@ Urdu/English hybrid chatbot
 - Python + API Integration
 - [GitHub Link](#) | [Live Demo](#)
 
+### 6 . ⚡ XWEATHER // 3D Tactical Weather Terminal
+A real-time geospatial intelligence and tactical weather monitoring dashboard built with Python, Plotly, and IPyWidgets. This project renders an interactive 3D orthographic globe that dynamically updates live meteorological data and allows seamless location switching through a command terminal interface.
+
+🚀 Key Features
+Interactive 3D Orthographic Globe: Uses Plotly's native rotation and scaling to center and render a high-performance 3D globe visualization.
+
+Live Weather Integration: Connects asynchronously with the Open-Meteo API to fetch real-time temperature and wind speed metrics for selected coordinates.
+
+Dynamic Location Routing: Supports multi-country navigation (Pakistan, Turkey, Australia, and World Overviews) with instant UI state re-rendering.
+
+Click-to-Center Navigation: Features interactive map markers that allow users to click directly on geographic nodes to lock focus on specific cities.
+
+Tactical UI Layout: Styled with custom dark-mode aesthetics, responsive container mapping via ipywidgets, and dynamic color-coded temperature thresholds.
 
